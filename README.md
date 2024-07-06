@@ -2,6 +2,8 @@
 
 <img align="centre" alt="Coding" width="300" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg" />
 
+![Screenshot 2024-07-06 015747](https://github.com/Saqib939/Gesture-Recognition/assets/142820178/a4337ae0-753a-4fa5-9327-8101ef67cc2c)
+
 <h3 align="center">A Curious Engineer interested in all things Tech!</h3>
 
 
