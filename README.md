@@ -4,34 +4,6 @@
 
 <h3 align="center">A Curious Engineer interested in all things Tech!</h3>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Content</title>
-    <style>
-        .centered-content {
-            text-align: center;
-        }
-        .centered-image {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="centered-content">
-        <h1>Hi 👋, I'm Saqib Ahmed</h1>
-        <img class="centered-image" alt="Coding" width="300" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg" />
-        <h3>A Curious Engineer interested in all things Tech!</h3>
-    </div>
-</body>
-</html>
-
-
-
 
 - 👀 I'm interested in **Software Engineering, Data Science and Machine Learning**
 
