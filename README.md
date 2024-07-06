@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Saqib Ahmed</h1>
 ![360_F_432824706_DgCxmNMLYVyvtl7R55DrgFmezSGyCO0F](https://github.com/Saqib939/Gesture-Recognition/assets/142820178/5c253ad0-9d4f-4a4a-ad90-f0065514e5af)
 
-<h1 align="center">Hi 👋, I'm Saqib Ahmed</h1>
 <h3 align="center">A Curious Engineer interested in all things Tech!</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg" />
 
