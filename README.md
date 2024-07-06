@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saqib Ahmed</h1>
 
-<img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg" />
+<img align="center" alt="Coding" width="500" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg" />
 
 <h3 align="center">A Curious Engineer interested in all things Tech!</h3>
 
