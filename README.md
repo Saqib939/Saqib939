@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saqib Ahmed</h1>
 
-![Screenshot 2024-07-06 015747](https://github.com/Saqib939/Gesture-Recognition/assets/142820178/a4337ae0-753a-4fa5-9327-8101ef67cc2c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9c79d75-f444-4aa0-9562-00568c9db236" alt="icon" width="350" />
+</p>
+
+
 
 <h3 align="center">A Curious Engineer interested in all things Tech!</h3>
 
 
 - 👀 I'm interested in **Software Engineering, Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **...**
 
 - 📫 You can reach me at **saqibahmed0161@gmail.com**
 
