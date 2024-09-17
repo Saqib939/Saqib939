@@ -11,7 +11,7 @@
 
 - 👀 I'm interested in **Software Engineering, Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently working as a  **Data Scientist**
 
 - 📫 You can reach me at **saqibahmed0161@gmail.com**
 
