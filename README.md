@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saqib Ahmed</h1>
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9c79d75-f444-4aa0-9562-00568c9db236" alt="icon" width="350" />
+  <img src="https://github.com/user-attachments/assets/1cce8a77-a2dc-46e7-aa79-5d24940dafd8" alt="icon" width="350" />
 </p>
 
 
